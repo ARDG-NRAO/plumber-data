@@ -1,0 +1,6 @@
+Type = 
+SubType = CONCATENATED
+
+Virtual concatenation of the following tables:
+  SUBTBS/POINTING0
+  SUBTBS/POINTING2
