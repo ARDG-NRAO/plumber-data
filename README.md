@@ -12,11 +12,10 @@ leakage beams. The status of the CSV files are summarized in the table below.
 While all the CSV files produce morphologically accurate beams, the beams that
 have not been verified should be used on a "shared risk" basis.
 
-|Telescope          | Status                 |
-|--------------------------------------------|
-| EVLA S Band       | Verified               |
-| EVLA L Band       | Unverified             |
-| MeerKAT L Band    | Undergoing verification|
-| ALMA  DA          | Unverified             |
-| ALMA  DV          | Unverified             |
-|--------------------------------------------|
+|Telescope          | Status                                     |
+|-------------------|--------------------------------------------|
+| EVLA S Band       | :heavy_check_mark: Verified                |
+| EVLA L Band       | :x: Unverified                             |
+| MeerKAT L Band    | :white_check_mark: Undergoing verification |
+| ALMA  DA          | :x: Unverified                             |
+| ALMA  DV          | :x: Unverified                             |
